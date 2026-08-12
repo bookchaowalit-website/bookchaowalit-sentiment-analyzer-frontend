@@ -1,11 +1,18 @@
-# bookchaowalit-sentiment-analyzer-frontend
+# Sentiment Analyzer
 
-Portfolio project: **sentiment-analyzer** — part of the 101 Projects challenge.
+Lexicon-based sentiment scoring.
 
-Live: https://sentiment-analyzer.bookchaowalit.com
+## Features
+- Interactive demo
 
-## Related
+## Limitations
+- Not production ML/SaaS
 
-- **Mobile App:** [bookchaowalit-sentiment-analyzer-mobile](https://github.com/bookchaowalit-mobile/bookchaowalit-sentiment-analyzer-mobile)
-- **Portfolio:** [bookchaowalit.com](https://bookchaowalit.com)
+## Run
+```bash
+npm install
+npm run dev
+```
 
+## Honesty
+Portfolio demo. Not multi-tenant SaaS. Prefer local-only state over fake production claims.
